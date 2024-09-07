@@ -19,3 +19,15 @@ The BMI Calculator is a simple yet effective tool for calculating Body Mass Inde
 ![Screenshot 2024-09-07 194925](https://github.com/user-attachments/assets/bc4dc02d-28c5-4329-8e84-74e154cae797)
 
 ![Screenshot 2024-09-07 194949](https://github.com/user-attachments/assets/7f1405f7-abee-45c3-b6ed-9d0c9c4e7f04)
+
+# Contributing
+
+Contributions are welcome! If you’d like to add features or improve the BMI Calculator, please fork the repository and submit a pull request. Be sure to include tests and documentation for your changes.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Contact
+
+For any questions or feedback, please reach out to-shreyvashisth0004@gmail.com.
